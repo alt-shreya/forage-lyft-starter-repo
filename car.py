@@ -1,9 +1,8 @@
 #  i notice that we haven't imported engine or battery here
 from service import Service
-from abc import ABC
 
-class Car(ABC):
-    def __init__(self, last_service_date):
+class Car(Service):
+    def __init__(self, engine, battery):
         self.engine = engine
         self.battery = battery
 
