@@ -2,7 +2,7 @@
 The code in this project is my solution to Lyft's Virtual Experience Simulation offered on Forage. 
 
 ## What That Code Do?
-The main objective of this code is to build and test a component that can determine if a car needs servicing according to criteria provided by the manufacturers. It incorporates the factory method design pattern.
+The main objective of this code is to build and test a component that can determine if a car in Lyft's rental fleet needs servicing according to criteria provided by the manufacturers. It incorporates the factory method design pattern.
 
 
 # Thoughts After Completing the Challenge
