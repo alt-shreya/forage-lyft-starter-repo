@@ -50,5 +50,4 @@ Besides the all-important skills of refactoring, test-driven development, versio
 ![I'm something of a Software Engineer, myself](assets/the_scientist.jpg)
 
 ## ⭐Credits
-Huge thanks to Kai Pilger [for the photo on this repo's social preview.](https://www.pexels.com/de-de/foto/taxi-uberholt-bus-462867/
-)https://www.pexels.com/de-de/foto/taxi-uberholt-bus-462867/
+Huge thanks to Kai Pilger [for the photo on this repo's social preview.](https://www.pexels.com/de-de/foto/taxi-uberholt-bus-462867/)
