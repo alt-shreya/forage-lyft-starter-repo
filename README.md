@@ -14,7 +14,8 @@ In the simulation, I was responsible for taking over development of an unfinishe
 ## What I Knew Going In 
 Before starting the project, I had written code for my own projects and was familiar with Python, version control, and the regrets of having to deal with messy code. 
 
-Granted, a lot of it was written by me.
+Granted, a lot of the aforementioned messy code was written by me.
+
 ![I'm not easy to manage](assets/the_manager.jpg)
 But I am always looking for ways to improve my coding skills and get real world experience from "real" Python projects. That's why this virtual experience by Lyft was a valuable one.
 
